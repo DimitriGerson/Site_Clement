@@ -46,6 +46,23 @@ try {
 catch(PDOException $e) {
 	echo "Erreur : " . $e->getMessage() . "<br/>";
 }
+try {
+	$pdo = null;
+	$pdo = new PDO('mysql:host='.$hostname.';port=3306;dbname='.$dbname.'',$username, $password);
+	$pdo->exec("SET CHARACTER SET utf8");
+	$pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
+	$stmt = $pdo->prepare("SELECT * FROM post");
+	$stmt->execute();
+	echo "Requête executée ! <br/>";
+	$liste =$stmt->fetchAll();
+	foreach ($liste as $row) {
+		echo "<br/>" .$row[titre]. " " .$row[texte]. " " .$row[date]."<br/>";
+	}
+}
+catch(PDOException $e) {
+	echo "Erreur : " . $e->getMessage() . "<br/>";
+}
+
 $con =new mysqli('localhost','clementgerson','2801');
 if ($con ->connect_error) {
 	die("Connection failed:" . $con->connect_error);
