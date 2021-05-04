@@ -39,7 +39,7 @@ try {
 	$pdo = new PDO('mysql:host='.$hostname.';port=3306;dbname='.$dbname.'',$username, $password);
 	$pdo->exec("SET CHARACTER SET utf8");
 	$pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
-	$stmta = $pdo->prepare("INSERT INTO post (titre,texte) VALUES ('bob','lolo')");
+	$stmta = $pdo->prepare("INSERT INTO post (titre,date,texte) VALUES ('bob',NOW(),'lolo')");
 	$stmta->execute();
 	echo "Nouvelle ligne dans la table post !";
 }
