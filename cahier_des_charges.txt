@@ -1,0 +1,53 @@
+cahier des charges du site pour Clément
+Clément veut un portail pour ses trois activités
+Dans un premier temps il est convenu que le graphisme n'est pas le but premier Clément veut une première carte de visite sur internet
+
+Le titre du portail est Clément Gerson Formateur en Majuscule ?
+
+Les trois activités apparaissent comme des bouton cliquables qui ouvrent une nouvelle page avec les différents menus?
+ou il y a t'il un effet sur les boutons ?
+
+Voici les trois activités
+Musique
+Street Art
+Audiovisuel
+
+Est-ce l'ordre d'importance ?
+1 Musique 2Street Art 3 Audiovisuel 
+
+L'activité Musique est divisée en trois sous-parties
+1 Vidéo Groupe et Exercices
+(cette sous partie fait l'objet d'une demande spéciale de Clément
+Il souhaite pouvoir présenter des vidéos où il serait possible de choisir un instrument et une musique pour une oeuvre donnée
+et de pouvoir rajouter les différent enregistrement vidéo le plus simple semble un écran vidéo divible où apparaitrait chacune des
+vidéo individuels mais mixées ensemble.)
+Cette demande n'est pas la priorité mais est importante pour Clément
+
+2 Bibliothèque de partition et Maéteriel Pédagogique (peut-être que cette partie pourrait être divisée en deux Partition  et Materiel)
+3 Formation proposée (Peut être juste Formations ou catalogue de formation si PDF)
+(les trois sous parties sont-elles dans l'ordre d'importance ?)
+
+L'activité Street Art est divisée en trois sous-parties
+1 Vidéo de démonstration(index comprenant une liste de lien vers des vidéos?)
+2 Bibliothèque d'alphabets et pochoir à réaliser (peut-être que cette partie pourrait être divisée en deux alphabets liste des alphabets réalisation catalogues d'images ou montage de plusieur réalisation dans un diaporama))
+3 Formations Proposées (Peut être juste Formations ou catalogue de formations si PDF)
+(les trois sous-parties sont-elles dans l'ordre d'importance ?)
+
+L'activité Audiovisuel
+1 Vidéo éclairage et cadrage(Je ne vois pas ce que cela représentes est-ce un catalogue)
+
+2 Matériel pédagogique(je ne vois pas ce que cela représente est-ce un catalogue)
+3 Formation Proposées (Peut être juste Formations ou catalogue de formations si PDF)
+(les trois sous parties sont-elles dans l'ordre) 
+
+Il y a en-dessous un bouton devis il serait plus intéressant de le remplacer par un bouton contact dans lequel l'objet pourrait être un devis
+(on peut aussi placer un bouton devis dans la sous-partie formation proposée qui listerait les formation avec pour chacune d'elle la génération d'un devis?)
+
+Juste avant le pied de page adresse mail et téléphone qui sont les moyen de contacter (un nous contacter qui enverait vers une page dédier aux contacts serait possible)
+
+il a était mensionné un espace de en accés limité pour cetains membres identifiant et mot de pass.
+ainsi qu'un back-office pour la création de contenu de pages web.
+
+Pour le contenu du site j'ai besoin d'images et de textes rien n'est obligatoire mais un texte de présentation sous Clément Gerson Formateur serait important une phrase au moins ainsi qu'une image.
+puis un texte pour décrire chaque activité. 
+enfin un texte pour chaque sous-parties. 
